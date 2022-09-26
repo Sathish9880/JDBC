@@ -1,0 +1,107 @@
+forms 
+---------
+login, registration, add, config form,
+------------------------------
+html5 form element[tag] attributes and values
+===========================
+elements    attr
+ <form>     method,action,type,size,required,placeholder
+<input>     value,id,name, autocomplete,tabindex,readonly
+<button>   ====================
+<select>    some attr have value , some default value
+<textarea>  ##values##
+<options> ----------------
+            submit,reset,text,password, radio,checkbox,file,email,button,
+==========
+ex: <element attr =value/>
+ <button type="submit" value="account ctrate"/> or</button>
+ <input  type="text" name="fname" />
+ <input   type="password">
+ <input  type="text" name="lname"/>
+ // each form element should be uniq name
+
+ ------------------
+ prod 
+ even html elements + css
+
+ bootstrap
+ jquery ui elements
+ primng
+ angular metrial
+ react metrial design 
+ ===================
+ html-5 layout design [ sementic element] meaning full tag element name
+ ---------------------------------
+ <div></div>
+
+ ==================
+ what is block level tag and inline block level tag 
+ -----------------------------------------------
+block level == allways create new line break 
+<div>
+<p>
+<form>
+<h1>
+<nav>
+<li>
+//////////////////// inline////////
+<span>
+<img>
+<u>
+<strong>
+<a>
+<input>
+<lable>
+
+seo rating, searc by users 
+SEO 
+
+meta inform about the page , keywords, descriptions,
+
+=============CSS-3=================
+css style sheet to apply design for html page 
+-------------------
+using css we can control html elements
+------------------------------
+properties and value
+text,list,table,image,background, ...
+------------------------------
+html: <tagname>contentent </tagname>
+css syntax:
+
+selectors{
+    properties:value;
+    properties:value;
+    properties:value;
+}
+
+selectors=html tag name [element name]
+properties = color, fontsize, border, width,....
+values:  red,20px,40px, bold, texttransform,
+-============================
+html
+<h1>welcome to html class</h1>
+
+css
+---
+h1{color:red; font-Size:80px; text-align:center;}
+==================================
+where to write css?/ how many ways can write css?
+
+3 ways 
+1 internal css  <style>
+2 external css  <link>
+3 inline css   style attr
+------------------------- 7.30am------
+cant execute css file without html file 
+
+
+
+
+
+
+
+
+
+
+
